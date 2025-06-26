@@ -1,3 +1,7 @@
+Database kurulumu icin
+php artisan migrate:fresh --seed 
+komutunu calistirmalisiniz
+
 Kullanicilar
 
 user1@ferisoft.com
